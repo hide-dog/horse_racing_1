@@ -1,2 +1,2 @@
 # horse_racing
-please read memo
+please read https://teru-hide.com/horse-racing/ (Japanese)
